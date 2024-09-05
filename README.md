@@ -22,11 +22,14 @@ Technologies Used:
 
 # How to start 
 Step-1 :- Install Live Server Extension in your VsCode.
+
 Step-2 :- Click on 'Go Live' to start the server.
+
 Step-3 :- Go to the server manually if your browser dont take you automatically there.
 
-![image](https://github.com/user-attachments/assets/9f3fa83c-1eba-4e88-9da0-444983d80930)
-![image](https://github.com/user-attachments/assets/13fe81b7-f4ba-4513-9867-eae6e5b83f1f)
-![image](https://github.com/user-attachments/assets/bee07cca-697c-4c40-8923-94df5fcc8c3c)
+The light shows the strength of the password.
 
-
+![image](https://github.com/user-attachments/assets/768d5832-e4b4-4bad-a2ca-cba68293634b)
+![image](https://github.com/user-attachments/assets/216c4079-26fd-4477-84dd-c1b1d85d3920)
+![image](https://github.com/user-attachments/assets/72329721-5f85-46b0-befa-2a94614a2ce0)
+![image](https://github.com/user-attachments/assets/e4e58f8e-90d0-4823-9e12-378b410849fd)
